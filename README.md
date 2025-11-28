@@ -90,7 +90,7 @@ A hybrid model using:
 
 * Dropout
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Hate-Speech-Detection-Using-DeepLearning/blob/26f45c20debc3b190f1f43c49bfabf85cf791e0d/i7.png)
 
 ### Training the Model
 Using:
