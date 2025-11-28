@@ -76,7 +76,7 @@ A Word Cloud is generated to understand frequently appearing terms in the datase
 
 ### Word Cloud Visualization
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Hate-Speech-Detection-Using-DeepLearning/blob/88d96a447a8f9e6f65680040e7a70e2a4ae806fd/i6.png)
 
 ### Building the Deep Learning Model
 A hybrid model using:
