@@ -53,7 +53,7 @@ A Word Cloud is generated to understand frequently appearing terms in the datase
 
 ### Dataset shape & Info
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Hate-Speech-Detection-Using-DeepLearning/blob/b6f54413121322097441751e5a87a7b19b21752a/i2.png)
 
 ### EDA - Visualize class distribution using pie charts
 
