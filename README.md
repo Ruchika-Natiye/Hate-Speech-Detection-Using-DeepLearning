@@ -72,7 +72,7 @@ A Word Cloud is generated to understand frequently appearing terms in the datase
 
 * Lemmatization
 
-![]()
+![](https://github.com/Ruchika-Natiye/Hate-Speech-Detection-Using-DeepLearning/blob/9f33b58a74b3f1d299d8ac8266db578a663b5e4c/i5.png)
 
 ### Word Cloud Visualization
 
