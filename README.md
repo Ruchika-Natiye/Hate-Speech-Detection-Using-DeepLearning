@@ -103,7 +103,7 @@ Training for up to 50 epochs.
 
 ### Evaluating the Model
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Hate-Speech-Detection-Using-DeepLearning/blob/a960488b803b0e9684e42ef807eb0aa3eeae497d/i9.png)
 
 ![img]()
 
