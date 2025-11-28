@@ -49,7 +49,7 @@ A Word Cloud is generated to understand frequently appearing terms in the datase
 
 ### Loading the Dataset
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Hate-Speech-Detection-Using-DeepLearning/blob/b35052f5ee39d99feabed4f174eb43039dec5b4c/i1.png)
 
 ### Dataset shape & Info
 
