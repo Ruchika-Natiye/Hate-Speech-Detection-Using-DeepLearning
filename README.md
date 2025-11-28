@@ -57,7 +57,7 @@ A Word Cloud is generated to understand frequently appearing terms in the datase
 
 ### EDA - Visualize class distribution using pie charts
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Hate-Speech-Detection-Using-DeepLearning/blob/b6f54413121322097441751e5a87a7b19b21752a/i3.png)
 
 ### EDA - Balanced Class Distribution
 
