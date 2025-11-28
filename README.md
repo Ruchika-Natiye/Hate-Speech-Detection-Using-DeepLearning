@@ -61,7 +61,7 @@ A Word Cloud is generated to understand frequently appearing terms in the datase
 
 ### EDA - Balanced Class Distribution
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Hate-Speech-Detection-Using-DeepLearning/blob/015e698597e2b462a7b5399e88e12acfef9f2821/i4.png)
 
 ### Text Preprocessing
 * Convert to lowercase
@@ -71,6 +71,8 @@ A Word Cloud is generated to understand frequently appearing terms in the datase
 * Remove stopwords
 
 * Lemmatization
+
+![]()
 
 ### Word Cloud Visualization
 
