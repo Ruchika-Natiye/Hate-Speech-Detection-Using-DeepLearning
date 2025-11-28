@@ -99,7 +99,7 @@ Using:
 * ReduceLROnPlateau
 Training for up to 50 epochs.
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Hate-Speech-Detection-Using-DeepLearning/blob/21b1f2825a578678f13175573d2ef95f06dc2c73/i8.png)
 
 ### Evaluating the Model
 
