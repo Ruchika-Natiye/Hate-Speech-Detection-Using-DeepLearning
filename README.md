@@ -109,7 +109,8 @@ Training for up to 50 epochs.
 
 ### Test Accuracy
 
-![img]()
+![img](https://github.com/Ruchika-Natiye/Hate-Speech-Detection-Using-DeepLearning/blob/1a73b036dbbcafa8ccc671520acd2fe96f090f36/i11.png)
+
 ## 🔮 Future Improvements
 * Upgrade model to BERT / DistilBERT
 
