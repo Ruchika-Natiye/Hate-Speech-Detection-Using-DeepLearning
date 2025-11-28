@@ -1,5 +1,5 @@
 # Hate-Speech-Detection-Using-DeepLearning
-# Hate Speech Detection Using Deep Learning
+## Hate Speech Detection Using Deep Learning
 A deep learning–based text classification model that identifies whether a tweet is Hate Speech, Offensive Language, or Neutral.This project uses preprocessing, word embeddings, and a Bidirectional LSTM neural network.
 
 ## ✨ Overview
